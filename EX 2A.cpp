@@ -25,3 +25,16 @@ int main() {
 
     return 0;
 }
+
+/*
+Output:
+Size of char: 1 byte
+Size of int: 4 bytes
+Size of short int: 2 bytes
+Size of long int: 4 bytes
+Size of float: 4 bytes
+Size of double: 8 bytes
+Size of long double: 12 bytes
+Size of bool: 1 byte
+Size of wchar_t: 2 bytes
+*/
