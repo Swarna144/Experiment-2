@@ -55,6 +55,7 @@ OUTPUT:-
 CONCLUSION:- When you compile and run this program, you will see the sizes of different data types
 
 EXPERIMENT 2B
+
 AIM-  We will learn how to find storage classes like static register extern and auto.
 
 THEORY:- In C++, a storage class defines the scope (visibility), lifetime, and memory location of variables and/or functions within a program. Storage classes are used to specify the characteristics and behavior of variables and functions.
